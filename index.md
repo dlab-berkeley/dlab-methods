@@ -1,23 +1,45 @@
 ---
-title: Welcome to the Social Science Methods Group at the D-Lab!
+title: D-Lab Social Science Methods Group
 author: Dav Clark
 layout: default
 ---
-Methods and Interdisciplinarity (push / promoting) / Inclusiveness (pull / welcoming)
+There's currently a Doodle to figure out our time for the semester. Please join
+the mailing list, and I (Dav) will send you a link!
 
-# Initial requirements to use this site at all
+# Mailing list
 
-We need to clearly delineate the minimums / prior knowledge that you need to
-know prior to fully grappling with the material on this site.
+The mailing list will be low traffic (about one message a week), please
+subscribe so we can keep you informed of changes, and when papers become
+available!
 
-# Secondary navigational resource
+Sign up
+[here](https://calmail.berkeley.edu/manage/list/listinfo/dlab-methods@lists.berkeley.edu).
+Note that if you use your berkeley.edu address, you'll be able to manage your
+subscription with your CalNet login.
 
-However, navigating to exactly what an individual might need to know in order to
-engage with a specific domain of understanding, and how they could gain that
-mastery. There may be a minimum set of requirements prior to the ability to
-navigate this secondary map.
+# Zotero
 
-# Developing a reasonable "API" to e.g., talk to statisticians
+Papers are available in our zotero group:
 
-What kind of formulation allows proper answering of a question without
-necessarily understanding the technical manner in which it was answered?
+https://www.zotero.org/groups/social_science_methods
+
+If you don't already have it, click the big red button on [the Zotero
+site](https://www.zotero.org).
+
+Once you sign up for our group, whenever you open Zotero (within Firefox, or as
+a standalone app), it will automatically sync our papers, and you can get the
+papers for the next meeting in the *For Next Meeting* folder. I'm tagging them
+with *required* if they are required and *recommended* otherwise (you can filter
+easily by tag in Zotero). Feel free to stick potential papers for discussion in
+*Potential*.
+
+If, however, you struggle with Zotero, you should join our mailing list! We send
+direct links there as well.
+
+# About this Website
+
+This is obviously very rough, now! But I (Dav) am going to be updating it aggressively over the coming week. I welcome your help in keeping the group resources
+up-to-date! If you're uncomfortable with GitHub, please ask me to use the very
+user-friendly prose.io! The source for the website is hosted here:
+
+https://github.com/dlab-berkeley/dlab-methods
