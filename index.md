@@ -6,7 +6,7 @@ layout: default
 There's currently a Doodle to figure out our time for the semester. Please join
 the mailing list, and I (Dav) will send you a link!
 
-# Mailing list
+## Mailing list
 
 The mailing list will be low traffic (about one message a week), please
 subscribe so we can keep you informed of changes, and when papers become
@@ -17,13 +17,9 @@ Sign up
 Note that if you use your berkeley.edu address, you'll be able to manage your
 subscription with your CalNet login.
 
-# Zotero
+## Zotero
 
-Papers are available in our zotero group:
-
-https://www.zotero.org/groups/social_science_methods
-
-If you don't already have it, click the big red button on [the Zotero
+Papers are available in [our zotero group](https://www.zotero.org/groups/social_science_methods). If you don't already have it, click the big red button on [the Zotero
 site](https://www.zotero.org).
 
 Once you sign up for our group, whenever you open Zotero (within Firefox, or as
@@ -36,10 +32,9 @@ easily by tag in Zotero). Feel free to stick potential papers for discussion in
 If, however, you struggle with Zotero, you should join our mailing list! We send
 direct links there as well.
 
-# About this Website
+## About this Website
 
 This is obviously very rough, now! But I (Dav) am going to be updating it aggressively over the coming week. I welcome your help in keeping the group resources
 up-to-date! If you're uncomfortable with GitHub, please ask me to use the very
-user-friendly prose.io! The source for the website is hosted here:
-
-https://github.com/dlab-berkeley/dlab-methods
+user-friendly prose.io! The GitHub link for this site is at the bottom of every
+page!
