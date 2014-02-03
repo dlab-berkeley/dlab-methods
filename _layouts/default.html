@@ -14,10 +14,11 @@
       {% assign BASE_PATH = nil %}
     {% endif %}
 
-    <link rel="stylesheet" href="{{ BASE_PATH }}/custom_assets/main.css">
 
     <!-- Hard coding bower packages for now, see end for js -->
     <link rel="stylesheet" href="{{ BASE_PATH }}/bower_components/bootstrap/dist/css/bootstrap.min.css">
+
+    <link rel="stylesheet" href="{{ BASE_PATH }}/custom_assets/main.css">
 
     <!-- Maybe add these as a fallback, but local resources are necessary for
          dev without internet
@@ -72,15 +73,13 @@
 
     </div><!-- wrap -->
 
-    <div class="footer">
-      <div class="contact">
+    <div id="footer">
         <p>
           <a href="/contributors.html">Contributors</a> &ndash;
           <a href="https://github.com/dlab-berkeley/dlab-methods">
               On GitHub</a> &ndash;
           <a href="mailto:davclark@berkeley.edu">Contact</a>
         </p>
-      </div>
     </div>
 
 
