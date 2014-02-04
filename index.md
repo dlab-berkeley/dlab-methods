@@ -3,8 +3,10 @@ title: D-Lab Social Science Methods Group
 author: Dav Clark
 layout: default
 ---
-There's currently a Doodle to figure out our time for the semester. Please join
-the mailing list, and I (Dav) will send you a link!
+## Details
+
+ - When: Wednesdays 4-5pm
+ - Where: D-Lab Convening Room, 356 Barrows Hall at UC Berkeley
 
 ## Mailing list
 
@@ -34,7 +36,7 @@ direct links there as well.
 
 ## About this Website
 
-This is obviously very rough, now! But I (Dav) am going to be updating it aggressively over the coming week. I welcome your help in keeping the group resources
-up-to-date! If you're uncomfortable with GitHub, please ask me to use the very
-user-friendly prose.io! The GitHub link for this site is at the bottom of every
-page!
+I (Dav) will be updating this site aggressively. I welcome your help in keeping
+the group resources up-to-date! If you're uncomfortable with GitHub, please ask
+me to use the very user-friendly prose.io! The GitHub link for this site is at
+the bottom of every page!
