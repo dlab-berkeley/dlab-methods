@@ -1,3 +1,4 @@
+{% include site_vars %}
 <!DOCTYPE html>
 <html>
   <head>
@@ -7,13 +8,6 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <title>{{ page.title }}</title>
-
-    {% if site.safe %} <!-- A proxy for "if we're building on GitHub" -->
-      {% assign BASE_PATH = 'http://dlab-berkeley.github.io/dlab-methods' %}
-    {% else %}
-      {% assign BASE_PATH = nil %}
-    {% endif %}
-
 
     <!-- Hard coding bower packages for now, see end for js -->
     <link rel="stylesheet" href="{{ BASE_PATH }}/bower_components/bootstrap/dist/css/bootstrap.min.css">
