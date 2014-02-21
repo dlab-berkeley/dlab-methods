@@ -10,3 +10,5 @@ Wednesdays from 4-5pm
 
  - [Mailing List](https://calmail.berkeley.edu/manage/list/listinfo/dlab-methods@lists.berkeley.edu)
  - [Zotero Group](https://www.zotero.org/groups/social_science_methods)
+
+Need more? Check [our "about" page]({{ BASE_PATH }}/about.html)
