@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Event Studies
-categories: event-studies
+tags: event-studies
 ---
 
 ### Topics from Paper

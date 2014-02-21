@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Factor Analysis, Surveys, etc.
-categories: factor-analysis
+tags: factor-analysis
 ---
 ### Topics from Paper
 

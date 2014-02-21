@@ -42,18 +42,15 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="{{ BASE_PATH }}">{{ site.name }}</a>
+            <a class="navbar-brand" href="{{ BASE_PATH }}/">{{ site.name }}</a>
           </div>
           <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-              <li> <!-- we can figure out how to make the current page's <li>
-              class="active" and get highlighting. In this case, maybe add a
-              "home" link back? -->
-                <a href="/brainstorming.html">brainstorming</a>
-              </li>
-              <!-- <li> -->
-              <!--   <a href="/placeholder.html">placeholder</a> -->
-              <!-- </li> -->
+              <!-- we can figure out how to make the current page's <li>
+              class="active" and get highlighting. -->
+              <li> <a href="{{ BASE_PATH }}/about.html">about</a> </li>
+              <li> <a href="{{ BASE_PATH }}/brainstorming.html">brainstorming</a> </li>
+              <li> <a href="{{ BASE_PATH }}/handbook">handbook</a> </li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
