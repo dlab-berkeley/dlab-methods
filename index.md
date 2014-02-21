@@ -2,6 +2,7 @@
 layout: default
 title: Meetings
 ---
+{% include site_vars %}
 
 {% for post in site.posts %}
 {{ DIVIDER }}
