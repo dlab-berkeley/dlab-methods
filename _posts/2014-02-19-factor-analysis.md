@@ -15,6 +15,16 @@ issues - which is what we'll focus on this week:
  - Descriptive / Data Mining techniques vs. Model Theoretic techniques
  - Dealing with ordinal scales (e.g., Likert scales; discussed in supplemental materials)
 
+Here's what we read:
+
+> Fabrigar, L. R., Wegener, D. T., MacCallum, R. C., & Strahan, E. J. (1999).
+> Evaluating the use of exploratory factor analysis in psychological research.
+> Psychological Methods, 4(3), 272.
+
+> Flora, D. B., & Curran, P. J. (2004). An Empirical Evaluation of Alternative
+> Methods of Estimation for Confirmatory Factor Analysis With Ordinal Data.
+> Psychological Methods, 9(4), 466–491. doi:10.1037/1082-989X.9.4.466
+
 <!--more-->
 
 For background, I've included a handout from Wicken's psych stats class, as well
