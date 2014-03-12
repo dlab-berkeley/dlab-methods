@@ -27,6 +27,8 @@ And some supplemental reading:
 
 <!--more-->
 
+{% include site_vars %}
+
 Ryan made a [nice chart]({{ BASE_PATH }}/materials/2014-03-05-whiteboard.jpeg)
 to capture some elements of the discussion. More generally, it seems that
 similar concerns arise again: how can we be thoughtful and conscientious about
