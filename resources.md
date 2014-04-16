@@ -1,6 +1,6 @@
 ---
 title: Resources
-layout: defaults
+layout: default
 ---
 References
 ----------
