@@ -1,4 +1,6 @@
 name: D-Lab Methods
 markdown: redcarpet
+redcarpet:
+    extensions: ['smart']
 pygments: true
 excerpt_separator: <!--more-->
