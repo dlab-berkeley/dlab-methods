@@ -8,4 +8,6 @@ author: You
 Titles for posts are demoted to second level in post listings... And posts
 shouldn't have too much structure!
 
-Content!
+<!--more-->
+
+More content (not displayed in the index).
